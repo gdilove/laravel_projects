@@ -1,4 +1,4 @@
-@extends('layouts.head')
+@extends('layouts.header')
 @section('head_title', 'About Page 2')
 
 @section('content')
